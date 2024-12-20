@@ -1,6 +1,6 @@
 # snax-garage
 
-A new Flutter project.
+A flutterflow project for our subject in Software Engineering
 
 ## Getting Started
 
